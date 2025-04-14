@@ -1,4 +1,4 @@
-```markdown
+
 # PicPay Simplificado - API de Pagamentos
 
 Bem-vindo ao repositório do **PicPay Simplificado**! Este projeto foi desenvolvido como parte de um desafio técnico, inspirado no desafio de backend do PicPay, com o objetivo de criar uma **API REST** para gerenciamento de usuários, carteiras e transferências financeiras. A aplicação utiliza **Java** com **Spring Boot** e segue uma arquitetura modular, limpa e preparada para escalabilidade.
